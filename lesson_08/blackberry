@@ -1,0 +1,23 @@
+<div class="container">
+    <h1 class="title">Blackberry</h1>
+    <div class="description">
+        Our blackberry ice cream is really good and even has little chunks of blackberry in it.
+        Did you know that the banana is botanically speaking a berry?
+
+        Here are some of the countries where blackberries grow:
+
+        <ul>
+            <li>India</li>
+            <li>China</li>
+            <li>Phillipines</li>
+            <li>Ecuador</li>
+            <li>Indonesia</li>
+        </ul>
+
+        <img src="img/blackberry.jpg">
+
+        <a href="index.html">
+            <button type="button">Back</button>
+        </a>
+    </div>
+</div>
